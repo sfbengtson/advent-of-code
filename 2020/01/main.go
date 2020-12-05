@@ -30,7 +30,6 @@ func twoStar() {
 
 // func oneStar() {
 // 	return
-// 	fmt.Println("TEST")
 // 	arr := prepProblem("input.txt")
 
 // 	for i := 0; i < len(arr); i++ {
